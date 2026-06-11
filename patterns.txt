@@ -1,0 +1,42 @@
+=======RAT NUM ROW=======
+1
+22
+333
+4444
+55555
+=======RAT NUM COLOUMN=======
+
+1
+12
+123
+1234
+=======RAT UPPER ROW=======
+A
+BB
+CCC
+DDDD
+EEEEE
+=======RAT UPPER COLOUMN=======
+
+A
+AB
+ABC
+ABCD
+=======RAT LOWER ROW=======
+a
+bb
+ccc
+dddd
+eeeee
+=======RAT LOWER ROW=======
+
+a
+ab
+abc
+abcd
+=======RAT STAR=======
+*
+**
+***
+****
+*****
